@@ -1,10 +1,6 @@
 # Deep-Learning-Model-Training-Project-Wildfire-Detection-from-Satellite-Images-
 # 🔥 Wildfire Detection & Classification from Satellite Imagery Using Deep Learning
 
-<p align="center">
-  <img src="outputs/comparison_results.png" alt="Model Comparison" width="800"/>
-</p>
-
 This repository contains the complete implementation, experiments, and evaluation results for the **CENG 476 Introduction to Deep Learning** term project. The objective is to design, train, and rigorously evaluate deep learning models to classify satellite and aerial images for early wildfire detection and post-disaster burn scar identification.
 
 ---
@@ -44,10 +40,7 @@ Independent test set evaluation metrics across all three trained models:
 | **ResNet-18 (Pretrained)** | 99.56% | 0.9953 | 0.9957 | 0.9955 | 0.9998 |
 | **ConvNeXt-Tiny (Proposed)** | **99.67%** | **0.9966** | **0.9966** | **0.9963** | **0.9999** |
 
-### Visual Performance Comparison:
-<p align="center">
-  <img src="outputs/all_models_confusion_matrix.png" alt="Confusion Matrices" width="900"/>
-</p>
+
 ---
 
 ## 🛠️ Installation & Usage
