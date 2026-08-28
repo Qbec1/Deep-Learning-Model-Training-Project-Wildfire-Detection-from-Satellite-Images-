@@ -48,7 +48,6 @@ Independent test set evaluation metrics across all three trained models:
 <p align="center">
   <img src="outputs/all_models_confusion_matrix.png" alt="Confusion Matrices" width="900"/>
 </p>
-
 ---
 
 ## 🛠️ Installation & Usage
