@@ -69,7 +69,7 @@ All models were evaluated on the independent test set (6,300 images) using PyTor
 ### 1. Multi-Model Performance Comparison
 ![Model Comparison Curves](ModelComparisonCurves.png)
 
-### 2. Single Model Training & Validation Progress Curves
+### 2. ConvNeXt-Tiny Model Training & Validation Progress Curves
 ![Confusion Matrices](ConfusionMatrices.png)
 
 ## ⚙️ Getting Started
