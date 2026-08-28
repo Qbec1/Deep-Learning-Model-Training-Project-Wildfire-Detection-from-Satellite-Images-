@@ -1,0 +1,1 @@
+# Deep-Learning-Model-Training-Project-Wildfire-Detection-from-Satellite-Images-
