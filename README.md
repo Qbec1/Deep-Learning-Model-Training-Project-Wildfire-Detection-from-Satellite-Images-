@@ -67,15 +67,10 @@ All models were evaluated on the independent test set (6,300 images) using PyTor
 ## 📉 Visualizations & Confusion Matrices
 
 ### 1. Training & Validation Progress Curves
-<p align="center">
-  <img src="outputs/ModelComparisonCurves.png" alt="Model Comparison Curves" width="900"/>
-</p>
+![Model Comparison Curves](ModelComparisonCurves.png)
 
 ### 2. Normalized Confusion Matrices (Performance Breakdown)
-<p align="center">
-  <img src="outputs/ConfusionMatrices.png" alt="Confusion Matrices" width="950"/>
-</p>
----
+![Confusion Matrices](ConfusionMatrices.png)
 
 ## ⚙️ Getting Started
 
